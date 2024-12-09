@@ -1,0 +1,1 @@
+.\vs_professional2015.exe /NoRestart /Passive /AdminFile C:\Users\Administrator\Desktop\installs\VS2015Professional\AdminDeployment.xml /Log C:\Users\Administrator\Desktop\installs\VS2015Professional\VS2015Install.log /ProductKey 4NWKT-VXH6J-2V92R-943TQ-JTYJP
